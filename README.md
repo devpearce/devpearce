@@ -1,5 +1,5 @@
 ### Hello there 👋
-- Designer/illustrator who fell in love with code & became a dev
+- Designer who fell in love with code & became a dev
 - Avid Star Wars fan + Sci-fi aficionado 
 - Sci-fi & Fantasy bookworm
 - Yoga enthusiast
