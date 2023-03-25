@@ -1,7 +1,10 @@
 ### Hello there 👋
-- 🌱 I’m currently learning Git & SASS
-- :alien: Sci-fi aficionado 
-- 😄 Pronouns: he/him
+- Designer/illustrator who fell in love with code & became a dev
+- Avid Star Wars fan + Sci-fi aficionado 
+- Sci-fi & Fantasy bookworm
+- Yoga enthusiast
+- Pronouns: he/him
+
 <!--
 **devpearce/devpearce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
